@@ -1,3 +1,6 @@
+#Very rough work in progress on https://www.codewars.com/kata/51b62bf6a9c58071c600001b/train/python
+#requires Python 3.10 or greater
+
 def solution(n):
     # TODO convert int to roman string
     print(n / 5)
@@ -36,3 +39,5 @@ def solution(n):
     
 
     return r
+
+solution(5)
